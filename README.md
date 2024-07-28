@@ -9,7 +9,7 @@
   
 </p>
 
-### A Instagram Private Web API client 🤳✨❤️
+### A Instagram Next Private Web API client 🤳✨❤️
 
 Simple, easy and very complete implementation of the Instagram private web API.
 
