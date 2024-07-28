@@ -492,4 +492,4 @@ await client.getPhotosByHashtag({ hashtag: 'unicorn' })
 
 ## License
 
-MIT © [Jesús Lobos](https://jlobos.com/)
+MIT © [Jesús Lobos](https://jlobos.com/) & [Fskhri](https://github.com/fskhri)
