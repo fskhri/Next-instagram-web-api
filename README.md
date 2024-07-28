@@ -49,7 +49,7 @@ const client = new Instagram({ username, password })
 
 Save cookies to disk by using a `though-cookie` store.
 
-```js
+```js 
 // Packages
 const Instagram = require('instagram-web-api')
 const FileCookieStore = require('tough-cookie-filestore2')
